@@ -1,5 +1,7 @@
 # clustering-employee-absenteeism
 
+## Business Objective
+To create an employee cluster to show absenteeism at work and try to identify the top contributors for it.
 
 
 ## Tools and Technology used:
