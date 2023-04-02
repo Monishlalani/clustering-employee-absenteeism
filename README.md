@@ -13,7 +13,7 @@
 
 • Social drinkers are more likely to use reasons 0, 13, 19, and 28 for their absence. Employers may want to consider providing resources or support for employees who   struggle with alcohol use.
 
-• Employees who are social drinkers are most commonly absent for 8 hours. This information could be useful in identifying patterns of absenteeism and developing         targeted interventions.
+• Employees who are social drinkers are most commonly absent for 8 hours. This information could be useful in identifying patterns of absenteeism and developing  targeted interventions.
 
 • Reason for absence 0 is associated with disciplinary failure. Employers could use this information to review their disciplinary policies and procedures to ensure     they are effective in preventing absenteeism related to disciplinary issues.
 
